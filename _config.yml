@@ -1,4 +1,3 @@
-layout_spectrum: 0.43546842806972563
 typography_spectrum: 0.4546028219629079
 color:
   brandStrength: 0.3746811479795724
@@ -11,4 +10,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.43546842806972563
 name: CrossFitNoRep
+title: CrossFit Designs
