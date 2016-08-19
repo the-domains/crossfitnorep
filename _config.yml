@@ -1,0 +1,14 @@
+layout_spectrum: 0.43546842806972563
+typography_spectrum: 0.4546028219629079
+color:
+  brandStrength: 0.3746811479795724
+  lightness: 0.5976361429784447
+  saturation: 0.2950402672868222
+  rhythmicContrast: 0.5316354802343994
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+name: CrossFitNoRep
